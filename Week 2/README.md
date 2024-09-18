@@ -8,7 +8,13 @@ I decided to try tracing two main websites and mapping them: 1. Itp’s website 
 </br></br>
 For ITP’s Website: </br>
 1. Main results from terminal: </br>
+<img width="476" alt="Screenshot 2024-09-18 at 2 35 19 PM" src="https://github.com/user-attachments/assets/3421f8c4-c29f-4d3a-8c14-0f832ed61b4a">
+
 2. Map of results: </br>
+<img width="766" alt="Screenshot 2024-09-18 at 2 39 57 PM" src="https://github.com/user-attachments/assets/a9f812b6-2ed8-4a9d-bb3a-72b4019a3b12">
+<img width="767" alt="Screenshot 2024-09-18 at 3 34 58 PM" src="https://github.com/user-attachments/assets/7e51ef5c-1634-426e-bc55-ad5edac2f4ff">
+<img width="771" alt="Screenshot 2024-09-18 at 3 35 12 PM" src="https://github.com/user-attachments/assets/ff30e7d6-30f5-4182-81a6-42dfe7a9514f">
+
 3. Some notes: I plugged in one of the IP addresses onto ipinfo.io and noticed it was coming from digital oceans website which made me a little confused. I’m not sure if this just means that digitalocean provided the domain or if it’s because I was signed into my digital ocean website </br>
 </br></br>
 
