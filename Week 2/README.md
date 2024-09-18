@@ -11,6 +11,7 @@ For ITP’s Website: </br>
 2. Map of results: </br>
 3. Some notes: I plugged in one of the IP addresses onto ipinfo.io and noticed it was coming from digital oceans website which made me a little confused. I’m not sure if this just means that digitalocean provided the domain or if it’s because I was signed into my digital ocean website </br>
 </br></br>
+
 For IP address website:</br>
 1. Main results from terminal:  </br>
 2. Map of the results: </br>
