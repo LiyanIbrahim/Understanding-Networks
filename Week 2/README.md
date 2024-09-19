@@ -20,6 +20,8 @@ For ITP’s Website: </br>
 
 For IP address website:</br>
 1. Main results from terminal:  </br>
+<img width="927" alt="Screenshot 2024-09-19 at 1 33 53 PM" src="https://github.com/user-attachments/assets/5ab6f286-e36e-46c5-bd24-8f678a2b4f04">
+
 2. Map of the results: </br>
-3. Some notes: </br>
+<img width="773" alt="Screenshot 2024-09-19 at 1 33 35 PM" src="https://github.com/user-attachments/assets/7391cb16-d48b-4010-b466-92fa63cf9d22">
 
