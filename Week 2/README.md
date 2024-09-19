@@ -25,3 +25,4 @@ For IP address website:</br>
 2. Map of the results: </br>
 <img width="773" alt="Screenshot 2024-09-19 at 1 33 35 PM" src="https://github.com/user-attachments/assets/7391cb16-d48b-4010-b466-92fa63cf9d22">
 
+In class notes: we are tracing the website -- where does our request stop
