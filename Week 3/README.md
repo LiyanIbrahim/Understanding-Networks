@@ -21,4 +21,8 @@ In the previous iteration of the code, I didn’t track every button's change in
 
 Circuit used: </br>
 I had 5 buttons in my circuit and one LED to indicate connectivity and so the circuit is pretty simple but I do want to enclose it into a controller type game for non-games for future iterations </br>
+<img width="927" alt="Screenshot 2024-09-26 at 1 41 06 PM" src="https://github.com/user-attachments/assets/1c5de87a-263a-41c9-bdb5-2266e99129d1">
+![IMG_6252](https://github.com/user-attachments/assets/92a8e442-4c8f-4970-96f0-31bfcdaa64ee)
+
+
 
