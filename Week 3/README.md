@@ -19,4 +19,6 @@ Two types of IP addresses used in this assignment: </br>
 New code used: </br>
 In the previous iteration of the code, I didn’t track every button's change in state so it kept sending in the commands for the time the button was pressed. Therefore, even though the game connected and the networks part of it worked, it wasn’t running properly. For the new code, for every directional button used, I had to implement a button change state so it would only send once. Here is the code used!  </br>
 
+Circuit used: </br>
+I had 5 buttons in my circuit and one LED to indicate connectivity and so the circuit is pretty simple but I do want to enclose it into a controller type game for non-games for future iterations </br>
 
