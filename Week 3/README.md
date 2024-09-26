@@ -10,7 +10,7 @@ Two types of IP addresses used in this assignment: </br>
 2. Local mac IP address: used to run processing  192.168.1.52 </br>
 -- how do I find this? Does it always have to start with 192 -- is this how i look for it </br>
 
-<b> Confusion 2:  Code logic <b> </br>
+<b> Confusion 2:  Code logic </b> </br>
 -- Instead of using analogue inputs and mapping them to values on the screen, I decided to use digital inputs because I wanted to laser cut the instructions on and stick them to buttons -- I didn't do any mapping 
 
 <img width="617" alt="Screenshot 2024-09-26 at 10 37 49 AM" src="https://github.com/user-attachments/assets/8dee02c1-b299-4cda-a72a-a5dd79a5584a">
