@@ -4,7 +4,7 @@ I used node.js in my pcomp final project because I wanted to connect arduino wit
 So for this weeks assignment, I really wanted to do that but I also wanted to try to connect my website with a weather API and have it change colors based on the weather. 
 </br> </br> 
 Downloading nodejs and creating a project directory for it: 
-<img width="701" alt="Screenshot 2024-10-23 at 7 26 45 PM" src="https://github.com/user-attachments/assets/d1d227fd-092e-4a99-a076-2c1dae57b34e">
+<img width="838" alt="Screenshot 2024-10-23 at 7 23 57 PM" src="https://github.com/user-attachments/assets/e6e636ff-b7ed-470e-b06c-f93bf0dc81d5">
 
 I then got an API key from https://openweathermap.org/api and wrote HTML, CSS and JS files into the same project directory. I used nano on temrinal to write them but I still need to remember the name of the editor shown in class where I can just drag and drop files since the terminal editor is really annoying. 
 </br> 
