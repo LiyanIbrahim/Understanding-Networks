@@ -11,4 +11,6 @@ My hypothesis is that when I created this nodejs project, I put it in a folder c
 
 After Office Hours Debugging: 
 ![Screenshot 2024-10-31 at 11 32 05 AM](https://github.com/user-attachments/assets/cdb95774-abf6-4264-bc1c-cee237225d9a)
+</br> 
 
+Because of the time I spent debugging and figuring out what and how I was wrong, I worked on just experimenting with adding some simple additional features to my server file such as a color changing feature based on user input, one that gets a random quote (all halloween based facts, one that gets server info on json along with the date and data get requests that were already implemented (all under the proxylocation I set which was apps) 
