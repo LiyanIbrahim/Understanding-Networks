@@ -14,3 +14,5 @@ After Office Hours Debugging:
 </br> 
 
 Because of the time I spent debugging and figuring out what and how I was wrong, I worked on just experimenting with adding some simple additional features to my server file such as a color changing feature based on user input, one that gets a random quote (all halloween based facts, one that gets server info on json along with the date and data get requests that were already implemented (all under the proxylocation I set which was apps) 
+
+But I'm also unclear about how to get user input while just using nodejs and running that without an html file. 
