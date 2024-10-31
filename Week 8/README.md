@@ -8,3 +8,7 @@ The first thing I did to troubleshoot everything was make my node file exactly t
 
 My hypothesis is that when I created this nodejs project, I put it in a folder called try but when I ls, I get project-dir then all my node related files are there. So I tried doing  https://liyanib.com/project-dir/apps to locate my project but that still wouldn’t work. 
 </br>
+
+After Office Hours Debugging: 
+![Screenshot 2024-10-31 at 11 32 05 AM](https://github.com/user-attachments/assets/cdb95774-abf6-4264-bc1c-cee237225d9a)
+
